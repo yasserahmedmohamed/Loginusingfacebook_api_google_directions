@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaskWorkLogin_usingFacebook</string>
+    <string name="facebook_app_id">177202612966253</string>
+    <string name="fb_login_protocol_scheme">fb177202612966253</string>
+    <string name="check_conn">error to login</string>
+    <string name="title_activity_map">Map</string>
+    <string name="gps_setting">GPS is settings</string>
+    <string name="open_gps_setting">GPS is not enabled. Do you want to go to settings menu?</string>
+    <string name="setting">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="we_cant_get_loc">your location is Blocked</string>
+    <string name="no_internet">There is no Internet connection</string>
+
+</resources>
